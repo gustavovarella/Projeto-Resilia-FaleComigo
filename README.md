@@ -4,7 +4,7 @@
 **===============**
 - [Qual o desafio?](#qual-o-desafio) 🚨
 - [Objetivo](#objetivo) 🚀
-- [O bot](#o-bot) 
+- [O Pitch Security](#o-pitch-security) 
 - [Features](#features)
 - [Pré-requisitos](#pré-requisitos)
 - [Rodando a aplicação](#rodando-a-aplicação) 💻
@@ -22,13 +22,13 @@
  O objetivo do projeto foi desenvolver um código que vai listar X opções de atendimento (Ex: 1 - Dúvidas, 2 - Consultas, 3 - Informações, 4 - Sair) e o usuário será guiado por mensagens avançando dentro desse atendimento simulado até que chegue ao final obtendo a resposta desejada. Cada integrante do grupo teve a missão de desenvolver uma opção e suas ramificações.
  
 ### **O Pitch Security**
- ![2022-06-18 14-26-36 gif](https://user-images.githubusercontent.com/75100979/174672474-494099ad-adcd-4bde-8ba8-0ae3df167acb.gif)
 
+![pitch_2x (1)](https://user-images.githubusercontent.com/75100979/175160682-48f8b87c-a710-428f-9237-0ef40872ef6c.gif)
  
 ### **Features**
-- [ ] Script do bot em Python
-- [ ] Apresentação do Projeto em PDF
-- [ ] Códigos versionados no github.com
+- [x] Script do bot em Python
+- [x] Apresentação do Projeto em PDF
+- [x] Códigos versionados no github.com
 
 ### **Pré-requisitos**
  Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
@@ -40,7 +40,7 @@ Além disto é bom ter um editor para trabalhar com o código como [VSCode](http
 ### **Rodando a aplicação**
 ```bash
 # Clone este repositório
-$ git clone <[git@github.com]mailto:git@github.com):gustavovarella/ProgetoResilia.git>
+$ git clone <[git@github.com]mailto:git@github.com):gustavovarella/Projeto-Resilia-FaleComigo.git>
 # Acesse a pasta do projeto.
 # Certifique-se que os arquivos estejam na mesma pasta.
 # Abra no VSCode e rode o arquivo pitch.py
@@ -48,14 +48,14 @@ $ git clone <[git@github.com]mailto:git@github.com):gustavovarella/ProgetoResili
 
 ### **Tecnologias**
 As seguintes ferramentas foram usadas na construção do projeto:
-- ![badge](https://img.shields.io/badge/python-v3.10.4-yellow)
+- ![badge](https://img.shields.io/badge/Python-v3.8.8-yellow)
 - ![VS Code](https://img.shields.io/badge/Visual%20Studio-Code-yellow)
 
 ### **Grupo**
 ![Screenshot_1](https://user-images.githubusercontent.com/75100979/174672554-e5b81161-a95e-4735-92e1-e3bec5cde1fe.png)
 
-- [Carlos Henrique Augustin](https://www.linkedin.com/in/carlos-augustin/)
-- [Gustavo Ribeiro Varella](https://www.linkedin.com/in/gustavo-varella/)
-- [Karoline Juliana Costa da Silva](https://www.linkedin.com/in/kjcsilva/)
-- [Laura Maria de Souza Romano](https://www.linkedin.com/in/laura-maria-de-souza-romano/)
-- [Matheus Barbosa Almeida](https://www.linkedin.com/in/matheusbarbosa-an%C3%A1lise-dados/)
+- [Carlos Henrique Augustin](https://github.com/cxrlxx)
+- [Gustavo Ribeiro Varella](https://github.com/gustavovarella)
+- [Karoline Juliana Costa da Silva](https://github.com/karoline-juliana)
+- [Laura Maria de Souza Romano](https://github.com/lauramsromano)
+- [Matheus Barbosa Almeida](https://github.com/MatheusB2002)
